@@ -1,2 +1,2 @@
-# back-application
+# bank-application
 Aplicatie Bancara
